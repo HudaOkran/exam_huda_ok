@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(MyApp());
 }
-
+//هذا التعليق للتأكد من اجراء التغييرات في الكود بعد المزامنه
 class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
